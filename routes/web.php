@@ -22,6 +22,7 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 |new line for master 02
+|03
 */
 
 Route::get('/', [HomeController::class, 'index'])->name('inicio'); 
